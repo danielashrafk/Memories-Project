@@ -1,4 +1,4 @@
-# Memories Project
+# Memories App
 
 Create, Read, Update & Delete your memories!
 
