@@ -1,10 +1,11 @@
-# Memories App. The app is deployed: https://daniel-memories-app.netlify.app/
+# Memories App: create, read, update & delete your memories!.
+# The app is deployed: https://daniel-memories-app.netlify.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d0fac536-c9da-4f6a-89ef-4587d91bde71/deploy-status)](https://app.netlify.com/sites/daniel-memories-app/deploys) 
 
-The deployment is unstable, so if it doesn't load please follow the steps below:
 
-Create, Read, Update & Delete your memories!
+
+The deployment is unstable, so if it doesn't load please follow the steps below:
 
 Go into the directory of client and server, do 'npm install' and then 'npm start'.
 
