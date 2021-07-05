@@ -1,4 +1,4 @@
-# Memories App: create, read, update & delete your memories!.
+# Memories App: create, read, update & delete your memories
 # The app is deployed: https://daniel-memories-app.netlify.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d0fac536-c9da-4f6a-89ef-4587d91bde71/deploy-status)](https://app.netlify.com/sites/daniel-memories-app/deploys) 
