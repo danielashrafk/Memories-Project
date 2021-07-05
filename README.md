@@ -1,11 +1,8 @@
-# Memories App: create, read, update & delete your memories
+# Memories App
 # The app is deployed: https://daniel-memories.herokuapp.com/
 
 
-
-Go into the directory of client and server, do 'npm install' and then 'npm start'.
-
-Don't forgert to add your own MongoDB connection URL in the env file.
+Create, Read, Update & Delete your memories!
 
 ![Screenshot](https://github.com/danielashrafk/memories-project/blob/main/client/public/memories%20-%201.png)
 
